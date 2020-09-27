@@ -1,2 +1,3 @@
 # my-portfolio
-acloudguru tutorial with React 
+
+Acloudguru tutorial with ReactJS and AWS
